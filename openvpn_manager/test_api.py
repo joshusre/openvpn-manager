@@ -1,3 +1,4 @@
 
 def test_empty():
-    assert True
+    if True:
+        assert True
